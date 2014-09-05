@@ -21,7 +21,7 @@ main.css
 	background-color:blue;
 	text-align:center;
 	font-style: italic;
-	font-size:15px;
+	font-size:25px;
 	border-width: 3 px;
 	border-color: black;
 	border-style: dotted;
@@ -48,7 +48,7 @@ main.css
 	background-color:blue;
 	text-align:center;
 	font-style: italic;
-	font-size:15px;
+	font-size:25px;
 	border-width: 3 px;
 	border-color: black;
 	border-style: dotted;
@@ -75,7 +75,7 @@ main.css
 	background-color:blue;
 	text-align:center;
 	font-style: italic;
-	font-size:15px;
+	font-size:25px;
 	border-width: 3 px;
 	border-color: black;
 	border-style: dotted;
@@ -102,7 +102,7 @@ main.css
 	background-color:blue;
 	text-align:center;
 	font-style: italic;
-	font-size:15px;
+	font-size:25px;
 	border-width: 3 px;
 	border-color: black;
 	border-style: dotted;
@@ -129,9 +129,12 @@ main.css
 	background-color:blue;
 	text-align:center;
 	font-style: italic;
-	font-size: 56px;
-	font-size:15px;
+	font-size:25px;
 	border-width: 3 px;
 	border-color: black;
 	border-style: dotted;
+}
+.avatar{
+	text-align: center;
+	padding: 10px 10px 10px 330px;
 }
