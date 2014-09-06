@@ -1,6 +1,7 @@
 main.css
 .bodyA{
 	background-color:blue;
+
 }
 .headA{
 	background-color: red;
@@ -137,4 +138,8 @@ main.css
 .avatar{
 	text-align: center;
 	padding: 10px 10px 10px 330px;
+}
+.joke{
+	text-align: center;
+	font-size: 50px;
 }
